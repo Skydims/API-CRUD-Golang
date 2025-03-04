@@ -3,3 +3,5 @@
 projek ini menggunkaan bahaasa golang dengan menggunakan gorm , sqllite dan gorrila mux
 
 sebelum menjalankan nya pastikan semua file ini ada di dalam folder todo-app 
+
+lalu di jalankan dengan go run main.go
